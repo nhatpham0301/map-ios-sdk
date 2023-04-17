@@ -93,4 +93,4 @@ If you have run out of energy or time for your project, put a note at the top of
 
 
 ## Get checksum of framework
-'swift package compute-checksum Mapbox.xcframework.zip'
+'swift package compute-checksum Vietmap.xcframework.zip'
