@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mapbox",
-            url: "https://github.com/nhatpham0301/map-ios-sdk/raw/main/Mapbox_1.0.1.xcframework.zip",
-            checksum: "3bbac3f0358030eabe8fa3a4ec1593f0a8222f93d6d20faeb8c87aa48784e267") 
+            url: "https://github.com/nhatpham0301/map-ios-sdk/raw/main/Mapbox_1_0_2.xcframework.zip",
+            checksum: "a12a8d3d33a0fd602ae8aac348345b98ae2cfeca7c66862bff4f733407cec721") 
             ]
 )
