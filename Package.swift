@@ -2,18 +2,18 @@
 import PackageDescription
 
 let package = Package(
-    name: "Mapbox",
+    name: "VietMap",
     products: [
         .library(
-            name: "Mapbox",
-            targets: ["Mapbox"])
+            name: "VietMap",
+            targets: ["VietMap"])
     ],
     dependencies: [
     ],    
     targets: [
         .binaryTarget(
-            name: "Mapbox",
-            url: "https://github.com/nhatpham0301/map-ios-sdk/raw/main/Mapbox_1_0_4.xcframework.zip",
-            checksum: "fdc960940561b783f5600d809de93d6d0f27fa29eceea6e9ea3e5f29c0a4b07e") 
+            name: "VietMap",
+            url: "https://github.com/nhatpham0301/map-ios-sdk/raw/main/VietMap.xcframework.zip",
+            checksum: "1e80118d31dc8949d0b4a1e4a1eb14e42617f51846243dad051de92066eb28f3") 
             ]
 )
